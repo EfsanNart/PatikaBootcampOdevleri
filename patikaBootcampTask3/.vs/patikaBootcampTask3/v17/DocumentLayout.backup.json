@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\patikaBootcampTask3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC692469-15EE-46E6-AAB7-2ECAB5B9491A}|patikaBootcampTask3\\patikaBootcampTask3.csproj|c:\\users\\user\\source\\repos\\patikabootcamptask3\\patikabootcamptask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC692469-15EE-46E6-AAB7-2ECAB5B9491A}|patikaBootcampTask3\\patikaBootcampTask3.csproj|solutionrelative:patikabootcamptask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\patikaBootcampTask3\\patikaBootcampTask3\\Program.cs",
+              "RelativeDocumentMoniker": "patikaBootcampTask3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\patikaBootcampTask3\\patikaBootcampTask3\\Program.cs*",
+              "RelativeToolTip": "patikaBootcampTask3\\Program.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:52:20.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

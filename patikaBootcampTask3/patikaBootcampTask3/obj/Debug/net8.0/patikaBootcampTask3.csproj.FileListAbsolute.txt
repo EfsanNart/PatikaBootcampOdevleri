@@ -1,0 +1,14 @@
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\bin\Debug\net8.0\patikaBootcampTask3.exe
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\bin\Debug\net8.0\patikaBootcampTask3.deps.json
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\bin\Debug\net8.0\patikaBootcampTask3.runtimeconfig.json
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\bin\Debug\net8.0\patikaBootcampTask3.dll
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\bin\Debug\net8.0\patikaBootcampTask3.pdb
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\obj\Debug\net8.0\patikaBootcampTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\obj\Debug\net8.0\patikaBootcampTask3.AssemblyInfoInputs.cache
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\obj\Debug\net8.0\patikaBootcampTask3.AssemblyInfo.cs
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\obj\Debug\net8.0\patikaBootcampTask3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\obj\Debug\net8.0\patikaBootcampTask3.dll
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\obj\Debug\net8.0\refint\patikaBootcampTask3.dll
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\obj\Debug\net8.0\patikaBootcampTask3.pdb
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\obj\Debug\net8.0\patikaBootcampTask3.genruntimeconfig.cache
+C:\Users\user\source\patikaÖdevleri\patikaBootcampTask3\patikaBootcampTask3\obj\Debug\net8.0\ref\patikaBootcampTask3.dll
