@@ -1,5 +1,5 @@
 # If / Else ve Switch-Case
-Bu proje, Visual Studio kullanarak C# dilinde oluşturulmuş bir konsol uygulamasıdır.
+Bu proje,kullanıcının seçtiği meyveye göre fiyat bilgisi veren C# dilinde oluşturulmuş bir konsol uygulamasıdır.
 
 ## Amaç
 -Hangi durumlarda hangi kontrol yapısı kullanılmalı
